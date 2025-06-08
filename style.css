@@ -1,0 +1,56 @@
+body {
+    background-image: url("machine.jpg");
+    background-size: fill;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #010101;
+
+
+
+   
+
+}
+body 
+h1 {
+    color: #3669c5;
+    font-family: "Gruppo";
+    font-size: 50px;
+    text-align: center;
+border: 2px solid #3669c5;
+    padding: 10px;
+    margin: 20px auto;
+    width: 50%;
+    box-shadow: 0 0 10px rgba(54, 105, 197, 0.5);
+
+}
+p {
+    color: #e2e2e2;
+    font-family: "shadows into light";
+    font-family: "Shadows Into Light", cursive;
+    text-align: center;
+    font-size: 40px;
+}
+.navbar ul{
+   
+    list-style-type: none;
+    background-color: #3669c5;
+    padding: 25px;
+    margin: 0;
+}
+.navbar a{
+   color: #bdcded;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+  font-size: 25px;
+}
+.navbar a:hover {
+    background-color: #2a58a2;
+}
+.fa-youtube, .fa-tiktok, .fa-house {
+    font-size: 30px;
+    color: #3669c5;
+    margin: 0 10px;
+}
